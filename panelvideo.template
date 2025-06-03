@@ -1,0 +1,10 @@
+    <a-entity>
+        <a-video
+          id="#v_0"
+          src="#video_0"
+          width="2"
+          material="flat"
+          height="1.1"          
+          visible="true">
+        </a-video>       
+     </a-entity>
